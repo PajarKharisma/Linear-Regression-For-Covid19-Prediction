@@ -1,0 +1,11 @@
+@relation dataset
+
+@attribute index numeric
+@attribute 'jumlah pertambahan' numeric
+
+@data
+46,?
+47,?
+48,?
+49,?
+50,?
